@@ -44,7 +44,7 @@
 
 void(* resetFunc) (void) = 0;             //declare reset function @ address 0
 
-const char* words[] = {"atmosphere", "verbatim", "postscript", "deadline", "censorship", "shorthand", "monkey", "dickhead", "dilemma", "interface"};
+const char* words[] = {"atmosphere", "verbatim", "postscript", "deadline", "censorship", "shorthand", "monkey", "dilemma", "interface"};
 const char letterVal[] = "abcdefghijklmnopqrstuvwxyz";
 char guessLetter;
 char guessLast;
